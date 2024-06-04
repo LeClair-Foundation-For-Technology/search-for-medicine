@@ -46,3 +46,15 @@
   border-radius: var(--bs-dropdown-border-radius);
 }
 
+#mainNav .navbar-nav > li.nav-item > a.nav-link:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
+  /*color: #f05f40;*/
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
+  /*color: #f05f40;*/
+}
+
+a:hover {
+  /*color: #f05f40;*/
+}
+
