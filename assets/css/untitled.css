@@ -51,10 +51,16 @@
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  /*color: #f05f40;*/
+  /*color: green;*/
 }
 
 a:hover {
   /*color: #f05f40;*/
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  /*color: var(--bs-dropdown-link-active-color);*/
+  text-decoration: none;
+  background-color: var(--bs-dropdown-link-active-bg);
 }
 
