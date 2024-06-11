@@ -1,6 +1,6 @@
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: #fff;
-  background-color: darkgreen!important;
+  /*color: #fff;*/
+  /*background-color: darkgreen!important;*/
 }
 
 .dropdown-menu {
@@ -55,12 +55,26 @@
 }
 
 a:hover {
-  /*color: #f05f40;*/
+  /*color: green;*/
 }
 
 .dropdown-item.active, .dropdown-item:active {
   /*color: var(--bs-dropdown-link-active-color);*/
   text-decoration: none;
   background-color: var(--bs-dropdown-link-active-bg);
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  /*color: #fff;*/
+  /*background-color: #e45a3d !important;*/
+}
+
+a:hover {
+  /*color: #f05f40;*/
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  /*color: #fff;*/
+  /*background-color: #e45a3d !important;*/
 }
 
